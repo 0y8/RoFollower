@@ -2,7 +2,7 @@
 
 ------------
 
-A roblox follow botting simulator
+A fake roblox follow botter
 
 ------------
 [![](https://cdn.discordapp.com/attachments/976593610646634496/987930022159482941/unknown.png)](https://cdn.discordapp.com/attachments/976593610646634496/987930022159482941/unknown.png)
