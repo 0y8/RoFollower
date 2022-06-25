@@ -31,7 +31,7 @@ amount = input('Amount of followers: ')
 # Converting the 'amount' var to an int.
 amount = int(amount)
 # The string length for the username.
-str_length = 15
+str_length = 8
 # getting the "amount" of followers the user wants.
 for line in range(amount):
     # Cooling down the print function.
