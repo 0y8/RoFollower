@@ -22,7 +22,7 @@ $ sudo apt install git
 $ sudo apt install pip
 ```
 ```shell 
-$ git clone https://github.com/iSpied/RFB
+$ git clone https://github.com/0y8/RFB
 ```
 ```shell
 $ cd RFB
