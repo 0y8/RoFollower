@@ -1,4 +1,5 @@
 colorama
 random
 time
-sys
+secrets
+string
