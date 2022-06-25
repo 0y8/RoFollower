@@ -1,4 +1,4 @@
-**LightningSpeed**
+**RFB**
 
 ------------
 
@@ -22,10 +22,10 @@ $ sudo apt install git
 $ sudo apt install pip
 ```
 ```shell 
-$ git clone https://github.com/iSpied/LightningSpeed
+$ git clone https://github.com/iSpied/RFB
 ```
 ```shell
-$ cd LightningSpeed
+$ cd RFB
 ```
 ```shell
 $ pip install -r requirements.txt
