@@ -35,7 +35,7 @@ str_length = 8
 # getting the "amount" of followers the user wants.
 for line in range(amount):
     # Cooling down the print function.
-    time.sleep(0.2)
+    time.sleep(00.1)
     # Generating a random string for the username.
     r_string = ''.join(secrets.choice(string.ascii_letters + string.digits)
                    for i in range(str_length))
