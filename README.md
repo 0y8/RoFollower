@@ -1,4 +1,4 @@
-**RFB**
+**RoFollower**
 
 ------------
 
@@ -22,10 +22,10 @@ $ sudo apt install git
 $ sudo apt install pip
 ```
 ```shell 
-$ git clone https://github.com/0y8/RFB
+$ git clone https://github.com/0y8/RoFollower
 ```
 ```shell
-$ cd RFB
+$ cd RoFollower
 ```
 ```shell
 $ pip install -r requirements.txt
