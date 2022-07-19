@@ -23,7 +23,7 @@ time.sleep(1)
 print('Made by Jaymes#3351')
 
 time.sleep(1)
-print(Fore.BLUE + 'Bots in stock:',random.randint(100000, 500000))
+print(Fore.BLUE + 'Bots in stock:',random.randint(50000, 100000))
 time.sleep(1)
 
 username = input(Fore.RED + 'Username: ')
